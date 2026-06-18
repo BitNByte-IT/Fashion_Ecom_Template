@@ -63,6 +63,7 @@ export const navigation: NavItem[] = [
       { label: "Party Wear", href: "/shop?category=party" },
     ],
   },
+  { label: "Track Order", href: "/track-order" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];
