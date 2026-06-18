@@ -82,7 +82,7 @@ export const popup = {
   enabled: true,
   showDelayMs: 3000,       // delay before showing popup (ms)
   cooldownDays: 7,         // don't show again for X days after close
-  heading: "Welcome to Le Reve",
+  heading: `Welcome to ${brand.name}`,
   subheading: "Sign up and get exclusive access to new arrivals, style tips, and special offers.",
   badge: "NEW ARRIVALS ARE HERE",
   image: "https://res.cloudinary.com/dsjlfrzot/image/upload/v1781743207/fashion-store/misc/popup-bg.jpg",
